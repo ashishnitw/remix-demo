@@ -2,6 +2,8 @@
 
 # Steps
 
+https://remix.run/docs/en/main/start/quickstart
+
 ## Installation
 
 ```
@@ -85,6 +87,14 @@ Now you can run your app with `remix-serve`:
 ```
 npx remix-serve build/server/index.js
 ```
+
+
+
+
+
+
+
+
 
 ---
 
